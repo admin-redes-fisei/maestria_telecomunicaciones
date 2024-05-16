@@ -1,7 +1,7 @@
 
 # Maestría en Telecomunicaciones
 
-Este proyecto tiene como objetivo desarrollar soluciones innovadoras en el campo de la electrónica y la automatización, abordando desafíos actuales y futuros en diversas industrias.
+Bienvenido/a a nuestra página dedicada a la Maestría en Telecomunicaciones. Este programa está diseñado para ofrecer a los estudiantes una experiencia integral en el campo de las telecomunicaciones, brindándoles las herramientas y conocimientos necesarios para enfrentar los desafíos actuales y futuros en esta área crucial.
 
 ![](./images/logofisei.jpeg)
 
